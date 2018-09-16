@@ -1,0 +1,4 @@
+///MARK: Home screen actions
+export default LOADINGSCREEN_ACTIONS = {
+  UPDATE_STATUS: "LOADINGSCREEN_ACTIONS.UPDATE_STATUS"
+};

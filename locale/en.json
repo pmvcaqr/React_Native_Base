@@ -1,0 +1,9 @@
+{
+  "translation": {
+    "LOGIN": {
+      "WELCOME": "Please login",
+      "LOGIN_BUTTON": "LOGIN",
+      "FORGOT_BUTTON": "Forgot password"
+    }
+  }
+}
